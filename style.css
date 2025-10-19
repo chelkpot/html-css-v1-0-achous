@@ -1,0 +1,27 @@
+h1 {
+    color: #f2fa
+}
+
+p {
+    font-size: 1488px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main {
+    background-color: red;
+    padding: auto;
+}
+
+bolshyaia-piska-slona {
+    text-decoration: double;
+}
+
+#dayn {
+    color: aqua;
+}
+
+div > span {
+    color: black
+}
+
+
